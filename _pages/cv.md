@@ -16,7 +16,7 @@ Education
 * M.Sc. in Computer Science and Engineering, The University of Aizu (UoA), Japan, 2021
 * B.Eng. in Electronics and Telecommunications (Talented Engineering Program), Hanoi University of Science and Technology (HUST), Vietnam, 2018
 
-Experience
+Professional Experience
 ======
 * Research Assistant at [Computer Communications Laboratory (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/), Oct. 2019 – now
   * University of Aizu (UoA), Japan
@@ -28,10 +28,10 @@ Experience
   * Supervisor: Professor Chuyen T. Nguyen
   * Research theme : Medium access control (MAC) protocols for Radio Frequency Identification (RFID) systems. The research aimed to reduce identification time and energy consumption of passive RFID systems under non-ideal channel conditions.
   
-* Teaching Assistant 
-  * FU02 Information Theory and Data Compression, UoA 
-  * CN04 Wireless Networking, UoA
-  * CN02 Network Security, UoA
+* Teaching Assistant at University of Aizu (UoA)
+  * [FU02 Information Theory and Data Compression](http://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2022_1_E_013.html#13415): Winters 2020, 2021, 2022
+  * [CN04 Wireless Networking](http://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2022_1_E_015.html#14103), Winters 2021, 2022
+  * [CN02 Network Security](http://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2022_1_E_015.html#14101), Springs 2021, 2022
   
 Skills
 ======
