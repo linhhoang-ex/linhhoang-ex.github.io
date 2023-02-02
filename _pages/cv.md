@@ -13,9 +13,9 @@ redirect_from:
 <!-- Education -->
 <!-- ====== -->
 ## Education
-* Ph.D. inComputer Science and Engineering, The University of Aizu (UoA), Japan, August 2024 (expected)
+* Ph.D. inComputer Science and Engineering, [The University of Aizu (UoA)](https://u-aizu.ac.jp/en/), Japan, August 2024 (expected)
 * M.Sc. in Computer Science and Engineering, The University of Aizu (UoA), Japan, 2021
-* B.Eng. in Electronics and Telecommunications (Talented Engineering Program), Hanoi University of Science and Technology (HUST), Vietnam, 2018
+* B.Eng. in Electronics and Telecommunications ([Talented Engineering Program](https://en.hust.edu.vn/elitech)), [Hanoi University of Science and Technology (HUST)](https://en.hust.edu.vn/web/en/home), Vietnam, 2018
 
 -----
 
