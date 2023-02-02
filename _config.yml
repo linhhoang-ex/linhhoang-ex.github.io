@@ -9,7 +9,7 @@
 locale                   : "en-US"
 # title                    : "Linh T. HOANG / Site Title"
 title_separator          : "-"
-name                     : &name "Linh T. HOANG"
+name                     : &name "Linh T. Hoang"
 description              : &description "personal description"
 url                      : "https://linhhbk.github.io" # the base hostname & protocol for your site e.g. "https://academicpages.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Linh T. HOANG"
+  name             : "Linh T. Hoang"
   avatar           : "profile.jpg"
   bio              : "Ph.D. Candidate @ University of Aizu, Japan"
   location         : "Japan"
