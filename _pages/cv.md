@@ -20,12 +20,12 @@ Professional Experience
 ======
 * Research Assistant at [Computer Communications Laboratory (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/), Oct. 2019 – now
   * University of Aizu (UoA), Japan
-  * Supervisor: Professor Anh T. Pham
+  * Supervisor: [Professor Anh T. Pham](https://u-aizu.ac.jp/~pham/)
   * Research theme : seeking data-driven solutions for resource allocation optimization of mobile edge computing in next-generation cellular networks.
 
 * Research Assistant at [Communication Theory and Application Research Group (CTARG)](https://sites.google.com/site/ntchuyenkyoto/lab?authuser=0), Oct. 2017 – Sep. 2019
   * Hanoi University of Science and Technology (HUST), Vietnam
-  * Supervisor: Professor Chuyen T. Nguyen
+  * Supervisor: [Professor Chuyen T. Nguyen](https://sites.google.com/site/ntchuyenkyoto/home?authuser=0)
   * Research theme : Medium access control (MAC) protocols for Radio Frequency Identification (RFID) systems. The research aimed to reduce identification time and energy consumption of passive RFID systems under non-ideal channel conditions.
   
 * Teaching Assistant at University of Aizu (UoA)
