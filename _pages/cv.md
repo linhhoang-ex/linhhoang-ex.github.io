@@ -12,12 +12,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D. inComputer Science and Engineering, The University of Aizu (UoA), Japan, 2024 (expected)
+<!-- ## Education -->
+* Ph.D. inComputer Science and Engineering, The University of Aizu (UoA), Japan, August 2024 (expected)
 * M.Sc. in Computer Science and Engineering, The University of Aizu (UoA), Japan, 2021
 * B.Eng. in Electronics and Telecommunications (Talented Engineering Program), Hanoi University of Science and Technology (HUST), Vietnam, 2018
 
-Professional Experience
-======
+
+<!-- Professional Experience -->
+<!-- ====== -->
+## Experiences
 * Research Assistant at [Computer Communications Laboratory (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/), Oct. 2019 – now
   * University of Aizu (UoA), Japan
   * Supervisor: [Professor Anh T. Pham](https://u-aizu.ac.jp/~pham/)
@@ -33,26 +36,26 @@ Professional Experience
   * [CN04 Wireless Networking](http://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2022_1_E_015.html#14103), Winters 2021, 2022
   * [CN02 Network Security](http://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2022_1_E_015.html#14101), Springs 2021, 2022
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Teaching
 ======
