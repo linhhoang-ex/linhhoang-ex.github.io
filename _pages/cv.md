@@ -16,6 +16,7 @@ redirect_from:
 * Ph.D. inComputer Science and Engineering, The University of Aizu (UoA), Japan, August 2024 (expected)
 * M.Sc. in Computer Science and Engineering, The University of Aizu (UoA), Japan, 2021
 * B.Eng. in Electronics and Telecommunications (Talented Engineering Program), Hanoi University of Science and Technology (HUST), Vietnam, 2018
+
 -----
 
 <!-- Professional Experience -->
