@@ -37,6 +37,10 @@ redirect_from:
   * [CN04 Wireless Networking](http://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2022_1_E_015.html#14103), Winters 2021, 2022
   * [CN02 Network Security](http://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2022_1_E_015.html#14101), Springs 2021, 2022
   
+---
+
+Full CV: [[PDF](/files/linhhoang.pdf)]
+
 <!-- Skills
 ======
 * Skill 1
