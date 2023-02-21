@@ -39,7 +39,7 @@ redirect_from:
   
 ---
 
-Full CV: [[PDF](https://linhhbk.github.io/files/linhhoang.pdf)]
+<!-- Full CV: [[PDF](https://linhhbk.github.io/files/linhhoang.pdf)] -->
 
 <!-- Skills
 ======
