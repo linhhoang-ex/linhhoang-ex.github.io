@@ -41,6 +41,4 @@ My Ph.D. research, titled _"Learning-based Resource Management in UAV-Assisted W
   
 
 # Contact
-Computer Communications Laboratory, 
-University of Aizu, Japan 965-0006
-linhht.419 [at] gmail [dot] com 
+Computer Communications Laboratory, <br> University of Aizu, Japan 965-0006 <br> linhht.419 [at] gmail [dot] com 
