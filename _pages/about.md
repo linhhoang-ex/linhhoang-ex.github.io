@@ -26,7 +26,7 @@ My Ph.D. research, titled _"Learning-based Resource Management in UAV-Assisted W
 ## Experience
 * Research Assistant, [Computer Communications Laboratory (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/), University of Aizu, Oct. 2019 – now
   * Advisor: Professor [Anh T. Pham](https://u-aizu.ac.jp/~pham/)
-  * Topic: Data-driven Resource Management for Edge Computing in UAV-assisted Wireless Networks.
+<!--   * Topic: Data-driven Resource Management for Edge Computing in UAV-assisted Wireless Networks. -->
 
 * Research Assistant, [Communication Theory and Application Research Group (CTARG)](https://sites.google.com/site/ntchuyenkyoto/lab?authuser=0), Hanoi University of Science and Technology, Oct. 2017 – Sep. 2019
   * Advisor: Assoc. Prof. [Chuyen T. Nguyen](https://sites.google.com/site/ntchuyenkyoto/home?authuser=0)
