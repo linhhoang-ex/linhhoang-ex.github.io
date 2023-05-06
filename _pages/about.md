@@ -16,7 +16,7 @@ My Ph.D. research, titled _"Learning-based Resource Management in UAV-Assisted W
 
 
 # Education
-* Ph.D., Computer Science and Engineering, [University of Aizu](https://u-aizu.ac.jp/en/), Aug. 2024 (expected)
+* Ph.D., Computer Science and Engineering, [University of Aizu](https://u-aizu.ac.jp/en/), Aug. 2024 (Expected)
 * M.Sc., Computer Science and Engineering, University of Aizu, 2021
 * B.Eng., Electronics and Telecommunications ([Talented Program](https://en.hust.edu.vn/elitech)), [Hanoi University of Science and Technology (HUST)](https://en.hust.edu.vn/web/en/home), Vietnam, 2018
 
