@@ -20,15 +20,15 @@ My interests include statistics, data analysis, and data-driven forecasting. I a
 
 
 ## Experiences
-* Research Assistant,[Computer Communications Laboratory (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/), Oct. 2019 – now
+* Research Assistant, [Computer Communications Laboratory (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/), Oct. 2019 – now
   * Supervised by [Professor Anh T. Pham](https://u-aizu.ac.jp/~pham/) at University of Aizu (UoA), Japan
   * Topic: Data-driven Resource Management for Edge Computing in UAV-assisted Wireless Networks.
 
-* Research Assistant at [Communication Theory and Application Research Group (CTARG)](https://sites.google.com/site/ntchuyenkyoto/lab?authuser=0), Oct. 2017 – Sep. 2019
+* Research Assistant, [Communication Theory and Application Research Group (CTARG)](https://sites.google.com/site/ntchuyenkyoto/lab?authuser=0), Oct. 2017 – Sep. 2019
   * Supervised by [Professor Chuyen T. Nguyen](https://sites.google.com/site/ntchuyenkyoto/home?authuser=0) at Hanoi University of Science and Technology (HUST)
   <!-- * Research theme : Medium access control (MAC) protocols for Radio Frequency Identification (RFID) systems. The research aimed to reduce identification time and energy consumption of passive RFID systems under non-ideal channel conditions. -->
   
-* Teaching Assistant for Undergraduate Courses at University of Aizu (UoA)
+* Teaching Assistant (Undergraduate Courses), University of Aizu (UoA)
   * FU14 Introduction to Software Engineering, Spring 2023
   * [FU02 Information Theory and Data Compression](http://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2022_1_E_013.html#13415): Winters 2020, 2021, 2022
   * [CN04 Wireless Networking](http://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2022_1_E_015.html#14103), Winters 2021, 2022
