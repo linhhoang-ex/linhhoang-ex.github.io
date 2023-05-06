@@ -15,8 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-My Ph.D. research, titled _"Learning-based Resource Management in UAV-Assisted Wireless Networks,"_ studies a new approach integrating machine learning techniques (deep learning and model-free reinforcement learning) into resource management of UAV-assisted wireless networks. The two focuses are on optimizing network resource allocation and adaptive deployment of aerial base stations to enable edge computing in 5G and beyond networks.
-
 ## Journal Articles: 
 <ol>
 	<li><strong>&nbsp;Linh T. Hoang</strong>, Chuyen T. Nguyen, Anh T. Pham, &ldquo;<a href="https://ieeexplore.ieee.org/document/10102429">Deep Reinforcement Learning-based Online Re- source Management for UAV-Assisted Edge Computing with Dual Connectivity</a>&rdquo;, <em>IEEE/ACM Trans. Networking, pp. 1-16, 2023</em>. [<a href="https://www.techrxiv.org/articles/preprint/Deep_Reinforcement_Learning-based_Online_Resource_Management_for_UAV-Assisted_Edge_Computing_with_Dual_Connectivity/22340134">Preprint</a>]&nbsp;</li>
