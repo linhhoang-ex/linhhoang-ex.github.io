@@ -1,19 +1,24 @@
 # main links links
 main:
-  - title: "Curriculum Vitae"
+  - title: "Portfolio" 
+    url: /portfolio/
+    
+  - title: "Resume"
     url: /cv/
 
   - title: "Publications"
     url: /publications/
+    
+  - title: "Honors and Awards"
 
-  - title: "Talks"
-    url: /talks/    
+#   - title: "Talks"
+#     url: /talks/    
     
-  - title: "Activities"
-    url: /activities/
+#   - title: "Activities"
+#     url: /activities/
     
-  - title: "Miscellaneous"
-    url: /miscellaneous/
+#   - title: "Miscellaneous"
+#     url: /miscellaneous/
 
 #   - title: "Teaching"
 #     url: /teaching/    
