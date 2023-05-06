@@ -2,8 +2,8 @@
 layout: archive
 title: "Honors and Awards"
 # excerpt: "Honors and Awards"
-author_profile: true
 permalink: /honors/
+author_profile: true
 ---
  
 <ul>
