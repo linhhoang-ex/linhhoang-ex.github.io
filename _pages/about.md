@@ -10,7 +10,7 @@ redirect_from:
 
 I am a second-year PhD candidate in the Graduate School of Computer Science and Engineering, University of Aizu, Japan. I am a member of the [Computer Communications Laboratory](http://web-ext.u-aizu.ac.jp/labs/ce-cc/) under the supervision of Professor [Anh T. PHAM](https://u-aizu.ac.jp/~pham/). 
 
-My interests include statistics, data analysis, and data-driven forecasting. I am passionate and curious about finding insights from large-scale data and developing data-driven solutions to real-world problems. 
+My interests include statistics, data analysis, and data-driven forecasting. I am passionate and curious about finding insights from large-scale data and developing data-driven solutions to business problems. 
 
 
 ## Education
@@ -18,7 +18,6 @@ My interests include statistics, data analysis, and data-driven forecasting. I a
 * M.Sc., Computer Science and Engineering, The University of Aizu (UoA), Japan, 2021
 * B.Eng., Electronics and Telecommunications ([Talented Engineer Training Program](https://en.hust.edu.vn/elitech)), [Hanoi University of Science and Technology (HUST)](https://en.hust.edu.vn/web/en/home), Vietnam, 2018
 
------
 
 ## Experiences
 * Research Assistant,[Computer Communications Laboratory (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/), Oct. 2019 – now
@@ -35,4 +34,3 @@ My interests include statistics, data analysis, and data-driven forecasting. I a
   * [CN04 Wireless Networking](http://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2022_1_E_015.html#14103), Winters 2021, 2022
   * [CN02 Network Security](http://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2022_1_E_015.html#14101), Springs 2021, 2022
   
----
