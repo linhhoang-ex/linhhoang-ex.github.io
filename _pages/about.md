@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD candidate in the Graduate School of Computer Science and Engineering, University of Aizu, Japan. I am a member of the <ins>[Computer Communications Laboratory](http://web-ext.u-aizu.ac.jp/labs/ce-cc/)</ins> under the supervision of Professor <ins>[Anh T. PHAM](https://u-aizu.ac.jp/~pham/)</ins>. 
+I am a second-year PhD candidate in the Graduate School of Computer Science and Engineering, University of Aizu, Japan. I am a member of the [Computer Communications Laboratory](http://web-ext.u-aizu.ac.jp/labs/ce-cc/) under the supervision of Professor [Anh T. PHAM](https://u-aizu.ac.jp/~pham/). 
 
 My interests include statistics, data analysis, and data-driven forecasting. I am passionate and curious about finding insights from large-scale data and developing data-driven solutions to real-world problems. 
 
