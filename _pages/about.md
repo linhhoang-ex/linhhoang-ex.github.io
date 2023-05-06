@@ -14,22 +14,16 @@ My Ph.D. research, titled _"Learning-based Resource Management in UAV-Assisted W
 
 <!-- My interests include statistics, data analysis, and data-driven forecasting. I am passionate and curious about finding insights from large-scale data and developing data-driven solutions to business problems.  -->
 
----
-
-# Education
+## Education
 * Ph.D., Computer Science and Engineering, [University of Aizu](https://u-aizu.ac.jp/en/), Aug. 2024 (Expected)
 * M.Sc., Computer Science and Engineering, University of Aizu, 2021
 * B.Eng., Electronics and Telecommunications ([Talented Program](https://en.hust.edu.vn/elitech)), [Hanoi University of Science and Technology (HUST)](https://en.hust.edu.vn/web/en/home), Vietnam, 2018
 
----
-
-# Training 
+## Training 
 * [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) \| Coursera 
 * [DeepLearning.AI Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) \| Coursera 
 
----
-
-# Experience
+## Experience
 * Research Assistant, [Computer Communications Laboratory (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/), University of Aizu, Oct. 2019 – now
   * Advisor: Professor [Anh T. Pham](https://u-aizu.ac.jp/~pham/)
   * Topic: Data-driven Resource Management for Edge Computing in UAV-assisted Wireless Networks.
@@ -44,6 +38,5 @@ My Ph.D. research, titled _"Learning-based Resource Management in UAV-Assisted W
   * [CN04 Wireless Networking](http://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2022_1_E_015.html#14103), Winters 2021, 2022
   * [CN02 Network Security](http://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2022_1_E_015.html#14101), Springs 2021, 2022
   
-
 ## Contact
 Computer Communications Laboratory, <br> University of Aizu, Japan 965-0006 <br> linhht.419 [at] gmail [dot] com 
