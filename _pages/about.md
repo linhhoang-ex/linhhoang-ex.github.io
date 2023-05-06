@@ -12,10 +12,7 @@ I am a second-year PhD candidate in the Graduate School of Computer Science and 
 
 My interests include statistics, data analysis, and data-driven forecasting. I am passionate and curious about finding insights from large-scale data and developing data-driven solutions to real-world problems. 
 
------
 
-<!-- Education -->
-<!-- ====== -->
 ## Education
 * Ph.D. in Computer Science and Engineering, [The University of Aizu (UoA)](https://u-aizu.ac.jp/en/), Japan, August 2024 (expected)
 * M.Sc. in Computer Science and Engineering, The University of Aizu (UoA), Japan, 2021
@@ -23,8 +20,6 @@ My interests include statistics, data analysis, and data-driven forecasting. I a
 
 -----
 
-<!-- Professional Experience -->
-<!-- ====== -->
 ## Experiences
 * Research Assistant at [Computer Communications Laboratory (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/), Oct. 2019 – now
   * Supervised by [Professor Anh T. Pham](https://u-aizu.ac.jp/~pham/) at University of Aizu (UoA), Japan
