@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Portfolio" 
-    url: /portfolio/
+  # - title: "Portfolio" 
+  #   url: /portfolio/
     
   # - title: "Resume"
   #   url: /cv/
@@ -11,7 +11,7 @@ main:
     
   - title: "Honors and Awards"
     url: /honors/
-    
+
 #   - title: "Talks"
 #     url: /talks/    
     
