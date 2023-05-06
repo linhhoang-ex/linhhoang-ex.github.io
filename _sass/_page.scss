@@ -7,7 +7,7 @@
   @include clearfix;
   
   width: 80%;
-  float: left; 
+  float: center; 
    
   margin-top: 2em;
   padding-left: 1em;
@@ -116,7 +116,6 @@
 }
       
 .page__hero {
-  @include span(3 of 12);
   position: relative;
   margin-bottom: 2em;
   @include clearfix;
