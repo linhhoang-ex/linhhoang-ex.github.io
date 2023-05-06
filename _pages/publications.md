@@ -28,3 +28,4 @@ author_profile: true
 	<li><strong>Linh T. Hoang</strong>, Anh-Tuan H. Bui, Chuyen T. Nguyen, and Anh T. Pham, &ldquo;<a href="https://ieeexplore.ieee.org/document/9238907">A Novel Virtual Small Cell-Based Group-Paging Scheme for Massive MTCs over LTE Networks</a>&rdquo;, <em>IEEE/CIC International Conference on Communications in China (ICCC)</em>, Chongqing, China, 9-11 August 2020.&nbsp;</li>
 	<li><strong>Linh Hoang</strong>, Chuyen T. Nguyen, and Anh T. Pham, &ldquo;<a href="https://ieeexplore.ieee.org/document/8465577">A Novel Time- and Energy-Efficient Tag Identification Protocol in Dense RFID Systems</a>,&rdquo;&nbsp;<em>IEEE International Conference on Communications and Electronics (ICCE)</em>, Hue, Vietnam, July 2018.&nbsp;</li>
 </ol>
+
