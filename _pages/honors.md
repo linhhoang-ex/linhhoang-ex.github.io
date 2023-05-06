@@ -5,8 +5,7 @@ title: "Honors and Awards"
 author_profile: true
 permalink: /honors/
 ---
-
-Selected Honors: 
+ 
 <ul>
 	<li><strong>Outstanding Student Research Assistant Grant</strong> at University of Aizu, 2022</li>
 	<li><a href="http://https://icc2022.ieee-icc.org/registration/student-travel-grants.html"><strong>IEEE ComSoc Student Travel Grant</strong></a> for ICC 2022&nbsp;</li>
