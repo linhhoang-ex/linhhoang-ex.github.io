@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : ""
 title_separator          : "-"
-name                     : &name "Linh T. Hoang"
+name                     : &name "Linh T. HOANG"
 description              : &description "personal description"
 url                      : "https://linhhbk.github.io" # the base hostname & protocol for your site e.g. "https://academicpages.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
