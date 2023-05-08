@@ -11,7 +11,7 @@ div {
 </style>
 </head>
 <body>
-<div>n this capstone, we collect a record for each payload carried during a SpaceX mission into outer space. We then build several machine learning models to predict whether the Falcon 9 first stage will land successfully.</div>
+<div>In this capstone, we collect a record for each payload carried during a SpaceX mission into outer space. We then build several machine learning models to predict whether the Falcon 9 first stage will land successfully.</div>
 <br/><img src='/images/spacex-landing.gif' width='500'>
 </body>
 </html>
