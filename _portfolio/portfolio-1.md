@@ -1,6 +1,6 @@
 ---
 title: "SpaceX Falcon 9 First Stage Landing Prediction"
-excerpt: "In this capstone, we collect a record for each payload carried during a SpaceX mission into outer space. We then build several machine learning models to predict whether the Falcon 9 first stage will land successfully.<br/><img src='https://github.com/linhhoang-ex/SpaceX-Falcon9/blob/main/landing_1.gif' width='500'>"
+excerpt: "In this capstone, we collect a record for each payload carried during a SpaceX mission into outer space. We then build several machine learning models to predict whether the Falcon 9 first stage will land successfully.<br/><img src='spacex-landing.gif' width='500'>"
 collection: portfolio
 ---
 
@@ -12,12 +12,12 @@ In this capstone, we collect a record for each payload carried during a SpaceX m
 
 
 <p align="center">
-  <img src="https://github.com/linhhoang-ex/SpaceX-Falcon9/blob/main/landing_1.gif"  width="550"><br>
+  <img src="spacex-landing.gif"  width="500"><br>
   <em>An example of a successful landing</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/linhhoang-ex/SpaceX-Falcon9/blob/main/crash.gif"  width="550"><br>
+  <img src="spacex-crash.gif"  width="500"><br>
   <em>An example of failed landings</em>
 </p>
 
@@ -38,7 +38,10 @@ The project was conducted through the following labs, in the chronological order
 A complete project report can be found [here](https://github.com/linhhoang-ex/SpaceX-Falcon9/blob/main/ds-capstone-project-report.pdf). <br>
 Project's source code is hosted [here](https://github.com/linhhoang-ex/SpaceX-Falcon9). 
 
-![](https://github.com/linhhoang-ex/SpaceX-Falcon9/blob/main/project-report-coverpage.png)
+
+<p align="center">
+  <img src="spacex-project-report-coverpage.png"  width="500"><br>
+</p>
 
 
 
