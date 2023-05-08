@@ -1,6 +1,6 @@
 ---
 title: "SpaceX Falcon 9 First Stage Landing Prediction"
-excerpt:"<p style='width:700px'>In this capstone, we collect a record for each payload carried during a SpaceX mission into outer space. We then build several machine learning models to predict whether the Falcon 9 first stage will land successfully.</p><br/><img src='/images/spacex-landing.gif' width='500'>"
+excerpt: "<p style='width:700px'>In this capstone, we collect a record for each payload carried during a SpaceX mission into outer space. We then build several machine learning models to predict whether the Falcon 9 first stage will land successfully.</p><br/><img src='/images/spacex-landing.gif' width='500'>"
 collection: portfolio
 ---
 
