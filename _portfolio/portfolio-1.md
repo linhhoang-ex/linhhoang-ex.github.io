@@ -1,6 +1,20 @@
 ---
 title: "SpaceX Falcon 9 First Stage Landing Prediction"
-excerpt: "In this capstone, we collect a record for each payload carried during a SpaceX mission into outer space. We then build several machine learning models to predict whether the Falcon 9 first stage will land successfully.<br/><img src='/images/spacex-landing.gif' width='500'>"
+# excerpt: "In this capstone, we collect a record for each payload carried during a SpaceX mission into outer space. We then build several machine learning models to predict whether the Falcon 9 first stage will land successfully.<br/><img src='/images/spacex-landing.gif' width='500'>"
+excerpt:
+<html>
+<head>
+<style>
+div {
+  max-width: 700px;
+  min-width: 100px;}
+</style>
+</head>
+<body>
+<div>n this capstone, we collect a record for each payload carried during a SpaceX mission into outer space. We then build several machine learning models to predict whether the Falcon 9 first stage will land successfully.</div>
+<br/><img src='/images/spacex-landing.gif' width='500'>
+</body>
+</html>
 collection: portfolio
 ---
 
@@ -32,15 +46,14 @@ The project was conducted through the following labs, in the chronological order
 * Lab3A: Build an Interactive Map with `Folium`. 
 * Lab3B: Build a Dashboard with `Plotly Dash`.
 * Lab4: Predictive Analysis (Classification) with Machine Learning Models.
-
+Project's source code is hosted [here](https://github.com/linhhoang-ex/SpaceX-Falcon9). 
 
 ## Project Report
 A complete project report can be found [here](https://github.com/linhhoang-ex/SpaceX-Falcon9/blob/main/ds-capstone-project-report.pdf). <br>
-Project's source code is hosted [here](https://github.com/linhhoang-ex/SpaceX-Falcon9). 
 
 
 <p align="center">
-  <img src="/images/spacex-project-report-coverpage.png"  width="500"><br>
+  <img src="/images/spacex-project-report-coverpage.png"  width="800"><br>
 </p>
 
 
