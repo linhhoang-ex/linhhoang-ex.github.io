@@ -1,22 +1,9 @@
 ---
 title: "SpaceX Falcon 9 First Stage Landing Prediction"
-# excerpt: "In this capstone, we collect a record for each payload carried during a SpaceX mission into outer space. We then build several machine learning models to predict whether the Falcon 9 first stage will land successfully.<br/><img src='/images/spacex-landing.gif' width='500'>"
-excerpt:
-<html>
-<head>
-<style>
-div {
-  max-width: 700px;
-  min-width: 100px;}
-</style>
-</head>
-<body>
-<div>In this capstone, we collect a record for each payload carried during a SpaceX mission into outer space. We then build several machine learning models to predict whether the Falcon 9 first stage will land successfully.</div>
-<br/><img src='/images/spacex-landing.gif' width='500'>
-</body>
-</html>
+excerpt:"<p style='width:700px'>In this capstone, we collect a record for each payload carried during a SpaceX mission into outer space. We then build several machine learning models to predict whether the Falcon 9 first stage will land successfully.</p><br/><img src='/images/spacex-landing.gif' width='500'>"
 collection: portfolio
 ---
+
 
 SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. 
 
