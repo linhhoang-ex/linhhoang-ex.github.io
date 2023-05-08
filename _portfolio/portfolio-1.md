@@ -1,6 +1,6 @@
 ---
 title: "SpaceX Falcon 9 First Stage Landing Prediction"
-excerpt: "In this capstone, we collect a record for each payload carried during a SpaceX mission into outer space. We then build several machine learning models to predict whether the Falcon 9 first stage will land successfully.<br/><img src='spacex-landing.gif' width='500'>"
+excerpt: "In this capstone, we collect a record for each payload carried during a SpaceX mission into outer space. We then build several machine learning models to predict whether the Falcon 9 first stage will land successfully.<br/><img src='/images/spacex-landing.gif' width='500'>"
 collection: portfolio
 ---
 
@@ -12,12 +12,12 @@ In this capstone, we collect a record for each payload carried during a SpaceX m
 
 
 <p align="center">
-  <img src="spacex-landing.gif"  width="500"><br>
+  <img src="/images/spacex-landing.gif"  width="500"><br>
   <em>An example of a successful landing</em>
 </p>
 
 <p align="center">
-  <img src="spacex-crash.gif"  width="500"><br>
+  <img src="/images/spacex-crash.gif"  width="500"><br>
   <em>An example of failed landings</em>
 </p>
 
@@ -40,7 +40,7 @@ Project's source code is hosted [here](https://github.com/linhhoang-ex/SpaceX-Fa
 
 
 <p align="center">
-  <img src="spacex-project-report-coverpage.png"  width="500"><br>
+  <img src="/images/spacex-project-report-coverpage.png"  width="500"><br>
 </p>
 
 
