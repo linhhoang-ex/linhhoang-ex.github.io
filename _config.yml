@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "ABOUT ME"
 title_separator          : "-"
 name                     : &name "Linh T. HOANG"
 description              : &description "personal description"
