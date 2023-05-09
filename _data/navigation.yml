@@ -1,15 +1,15 @@
 # main links links
 main:
-  - title: "Portfolio" 
+  - title: "PORTFOLIO" 
     url: /portfolio/
     
   # - title: "Resume"
   #   url: /cv/
 
-  - title: "Publications"
+  - title: "PUBLICATIONS"
     url: /publications/
     
-  - title: "Honors and Awards"
+  - title: "HONORS AND AWARDS"
     url: /honors/
 
 #   - title: "Talks"
