@@ -18,10 +18,8 @@ My Ph.D. research, titled _"Learning-based Resource Management in UAV-Assisted W
 * Ph.D., Computer Science and Engineering, [University of Aizu](https://u-aizu.ac.jp/en/), Aug. 2024 (Expected)
 * M.Sc., Computer Science and Engineering, University of Aizu, 2021
 * B.Eng., Electronics and Telecommunications ([Talented Program](https://en.hust.edu.vn/elitech)), [Hanoi University of Science and Technology (HUST)](https://en.hust.edu.vn/web/en/home), Vietnam, 2018
-
-## TRAINING 
-* [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) \| Coursera 
-* [DeepLearning.AI Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) \| Coursera 
+* [IBM Data Science Professional Certificate Program](https://www.coursera.org/professional-certificates/ibm-data-science)
+* [DeepLearning.AI Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
 ## EXPERIENCE
 * Research Assistant, [Computer Communications Laboratory (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/), University of Aizu, Oct. 2019 – now
