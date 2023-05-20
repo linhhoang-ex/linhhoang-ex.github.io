@@ -23,12 +23,13 @@ My Ph.D. research, titled _"Learning-based Resource Management in UAV-Assisted W
 
 ## WORK EXPERIENCE
 * Research Assistant, [Computer Communications Laboratory (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/), University of Aizu, Oct. 2019 – now
+  * Oct. 2021 - Now: Seeking AI-empowered solutions to optimize network resource allocation and adaptive deployment of aerial base stations to enable edge computing in next-generation cellular networks.
+  * Oct. 2019 - Sep. 2021: Designed multiple access protocols to support massive machine-type communications in 5G and beyond networks.  
   * Advisor: Professor [Anh T. Pham](https://u-aizu.ac.jp/~pham/)
-<!--   * Topic: Data-driven Resource Management for Edge Computing in UAV-assisted Wireless Networks. -->
 
 * Research Assistant, [Communication Theory and Application Research Group (CTARG)](https://sites.google.com/site/ntchuyenkyoto/lab?authuser=0), Hanoi University of Science and Technology, Oct. 2017 – Sep. 2019
+  * Designed energy-efficient multiple access mechanisms for large-scale Radio Frequency Identification (RFID) systems with thousands of devices.
   * Advisor: Assoc. Prof. [Chuyen T. Nguyen](https://sites.google.com/site/ntchuyenkyoto/home?authuser=0)
-  <!-- * Research theme : Medium access control (MAC) protocols for Radio Frequency Identification (RFID) systems. The research aimed to reduce identification time and energy consumption of passive RFID systems under non-ideal channel conditions. -->
   
 * Teaching Assistant (Undergraduate Courses), University of Aizu (UoA)
   * FU14 Introduction to Software Engineering, Spring 2023
