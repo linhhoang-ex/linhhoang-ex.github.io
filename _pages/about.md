@@ -7,6 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FTB71GTS1Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FTB71GTS1Y');
+</script>
 <br>
 I am a second-year PhD candidate in the Graduate School of Computer Science and Engineering, University of Aizu, Japan. I am a member of the [Computer Communications Laboratory](http://web-ext.u-aizu.ac.jp/labs/ce-cc/) under the supervision of Professor [Anh T. PHAM](https://u-aizu.ac.jp/~pham/). 
 
