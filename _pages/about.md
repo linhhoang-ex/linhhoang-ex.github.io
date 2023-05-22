@@ -17,6 +17,7 @@ redirect_from:
   gtag('config', 'G-FTB71GTS1Y');
 </script>
 
+<br>
 I am a second-year PhD candidate in the Graduate School of Computer Science and Engineering, University of Aizu, Japan. I am a member of the [Computer Communications Laboratory](http://web-ext.u-aizu.ac.jp/labs/ce-cc/) under the supervision of Professor [Anh T. PHAM](https://u-aizu.ac.jp/~pham/). 
 
 My Ph.D. research, titled _"Learning-based Resource Management in UAV-Assisted Wireless Networks,"_ studies a new approach integrating machine learning techniques (deep learning and model-free reinforcement learning) and conventional mathematical optimization into resource management of UAV-assisted wireless networks. The two focuses are optimizing network resource allocation and adaptive deployment of aerial base stations to enable edge computing in next-generation cellular networks.
