@@ -9,6 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FTB71GTS1Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FTB71GTS1Y');
+</script>
 
 <!-- Education -->
 <!-- ====== -->
