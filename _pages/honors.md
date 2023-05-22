@@ -5,6 +5,16 @@ title: "HONORS AND AWARDS"
 permalink: /honors/
 author_profile: true
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FTB71GTS1Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FTB71GTS1Y');
+</script>
+
 <br>
 <ul>
 	<li><strong>Outstanding Student Research Assistant Grant</strong> at University of Aizu, 2022</li>
