@@ -22,14 +22,14 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-<br>
+<hr width="700px" size="1">
 
 ## SpaceX Falcon 9 First Stage Landing Prediction 
-[![Open Project Report](https://img.shields.io/badge/PDF-Open_Project_Report-blue?logo=adobe-acrobat-reader&logoColor=white)](files/ds-capstone-project-report.pdf) [![View on Github](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/linhhoang-ex/SpaceX-Falcon9)
+[![Open Project Report](https://img.shields.io/badge/PDF-Open_Project_Report-blue?logo=adobe-acrobat-reader&logoColor=white)](/files/ds-capstone-project-report.pdf) [![View on Github](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/linhhoang-ex/SpaceX-Falcon9)
 
 <p style='width:700px'>A record of each payload carried during a SpaceX mission into outer space was collected via web scraping and SpaceX API. Data wrangling and exploratory data analysis were performed on the collected data using SQL queries and Pandas. Several machine learning models (SVM, Classification Trees, and Logistic Regression) were built to predict whether the Falcon 9 first stage will land successfully.</p>
 <img src='/images/spacex-landing.gif' width='500'>
-<hr width="700px" size="2">
+<hr width="700px" size="5">
 
 ## IBM Data Science Professional Certificate 
 [![View on Github](https://img.shields.io/badge/GitHub-View_on_Github-blue?logo=GitHub)](https://github.com/linhhoang-ex/ibm-ds-labs)
