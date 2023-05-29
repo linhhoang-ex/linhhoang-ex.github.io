@@ -25,4 +25,4 @@ author_profile: true
 ## SpaceX Falcon 9 First Stage Landing Prediction 
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/linhhoang-ex/SpaceX-Falcon9)
 
-<p style='width:700px'>In this capstone, we collect a record for each payload carried during a SpaceX mission into outer space. We then build several machine learning models to predict whether the Falcon 9 first stage will land successfully.</p><img src='/images/spacex-landing.gif' width='500'>
+<p style='width:700px'>In this capstone, I collected a record of each payload carried during a SpaceX mission into outer space via web scraping and SpaceX API. I performed data wrangling and exploratory data analysis on the collected data using SQL queries and Pandas. I built several machine learning models (SVM, Classification Trees, and Logistic Regression) to predict whether the Falcon 9 first stage will land successfully. Hyper-parameters of those models were selected via a grid search.</p><img src='/images/spacex-landing.gif' width='500'>
