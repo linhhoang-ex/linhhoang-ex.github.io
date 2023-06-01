@@ -24,7 +24,7 @@ author_profile: true
 
 ## DRL for Resource Management in Mobile Edge Computing
 [![Open on IEEE Xplore](https://img.shields.io/badge/PDF-View_on_IEEE_Xplore-blue?logo=adobe-acrobat-reader&logoColor=white)](https://ieeexplore.ieee.org/document/10102429) [![Open on IEEE Xplore](https://img.shields.io/badge/PDF-Preprint_on_TechRxiv-blue?logo=adobe-acrobat-reader&logoColor=white)](/files/TechRxiv-ToN-DualConnectivity.pdf)
-<p style='width:700px'>We developed a deep reinforcement learning framework to balance computational workloads between a terrestrial base station (the Master eNodeB) and a drone base station (the Second eNodeB) for a dynamic edge computing system with dual connectivity. The proposed framework is with guaranteed convergence and near-optimal performance. The research outcomes were partly presented at <a href="https://icc2022.ieee-icc.org/index.html">IEEE ICC 2022</a> (won the IEEE ComSoc Travel Grant) and published in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90">IEEE/ACM Transactions on Networking</a> in April 2023.</p>
+<p style='width:700px'>We developed a deep reinforcement learning framework to balance computational workloads between a terrestrial base station (the Master eNodeB) and a drone base station (the Second eNodeB) for a dynamic edge computing system with dual connectivity. The proposed framework is with guaranteed convergence and near-optimal performance. The research outcomes were partly presented at IEEE ICC 2022 (won the IEEE ComSoc Travel Grant) and published in IEEE/ACM Transactions on Networking in April 2023.</p>
 <img src='/images/portfolio-ToN-methodology.png' width='700'>
 <hr width="700px">
 
