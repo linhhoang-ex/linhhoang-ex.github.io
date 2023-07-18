@@ -22,16 +22,16 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-## DRL for Resource Management in Mobile Edge Computing
-[![Open on IEEE Xplore](https://img.shields.io/badge/PDF-View_on_IEEE_Xplore-blue?logo=adobe-acrobat-reader&logoColor=white)](https://ieeexplore.ieee.org/document/10102429) [![Open on IEEE Xplore](https://img.shields.io/badge/PDF-Preprint_on_TechRxiv-blue?logo=adobe-acrobat-reader&logoColor=white)](/files/TechRxiv-ToN-DualConnectivity.pdf) [![View on Github](https://img.shields.io/badge/GitHub-View_on_GitHub-red?logo=GitHub)](https://github.com/linhhoang-ex/edgecomputing-drl)
-<p style='width:700px'>We developed a deep reinforcement learning framework to balance computational workloads between a terrestrial base station (the Master eNodeB) and a drone base station (the Second eNodeB) for a dynamic edge computing system with dual connectivity. The proposed framework is with guaranteed convergence and near-optimal performance. The research outcomes were partly presented at IEEE ICC 2022 (won the IEEE ComSoc Travel Grant) and published in IEEE/ACM Transactions on Networking in April 2023.</p>
+## Deep Reinforcement Learning for Network Resource Management
+[![View on Github](https://img.shields.io/badge/GitHub-View_on_GitHub-red?logo=GitHub)](https://github.com/linhhoang-ex/edgecomputing-drl) [![Open on IEEE Xplore](https://img.shields.io/badge/PDF-View_on_IEEE_Xplore-blue?logo=adobe-acrobat-reader&logoColor=white)](https://ieeexplore.ieee.org/document/10102429) [![Open on IEEE Xplore](https://img.shields.io/badge/PDF-Preprint_on_TechRxiv-blue?logo=adobe-acrobat-reader&logoColor=white)](/files/TechRxiv-ToN-DualConnectivity.pdf)
+<p style='width:700px'>Designed an actor-critic DRL framework to assign mobile users to edge servers based on their traffic and network conditions. The objective is to minimize energy consumption given a delay threshold and with queue stability constraints. The actor module is based on a CNN (using Tensorflow), and the critic module is backed by Lyapunov optimization. The method reduces the energy to a 3% gap compared to an exhaustive search. The research was partly presented at IEEE ICC 2022 (won the <a href="https://icc2022.ieee-icc.org/registration/student-travel-grants.html">IEEE ComSoc Travel Grant</a>) and published in <a href="https://ieeexplore.ieee.org/document/10102429">IEEE/ACM Transactions on Networking</a>.</p>
 <img src='/images/portfolio-ToN-methodology.png' width='700'>
 <hr width="700px">
 
 ## SpaceX Falcon 9 First Stage Landing Prediction 
-[![Open Project Report](https://img.shields.io/badge/PDF-Open_Project_Report-blue?logo=adobe-acrobat-reader&logoColor=white)](/files/ds-capstone-project-report.pdf) [![View on Github](https://img.shields.io/badge/GitHub-View_on_GitHub-red?logo=GitHub)](https://github.com/linhhoang-ex/SpaceX-Falcon9)
+[![View on Github](https://img.shields.io/badge/GitHub-View_on_GitHub-red?logo=GitHub)](https://github.com/linhhoang-ex/SpaceX-Falcon9) [![open Project Report](https://img.shields.io/badge/PDF-View_Project_Report-blue?logo=adobe-acrobat-reader&logoColor=white)](/files/ds-capstone-project-report.pdf)
 
-<p style='width:700px'>A record of each payload carried during a SpaceX mission into outer space was collected via web scraping and SpaceX API. Data wrangling and exploratory data analysis were performed on the collected data using SQL queries and Pandas. Several machine learning models (SVM, Classification Trees, and Logistic Regression) were fine-tuned to predict whether the Falcon 9 first stage will land successfully.</p>
+<p style='width:700px'>Collected SpaceX Falcon 9 launch data via web scraping (on Wikipedia) and making a request to the SpaceX API. Data wrangling, exploratory data analysis, and feature engineering were performed using SQL and Pandas. Used Plotly to build an interactive dashboard and Folium for launch sites locations analysis. Several machine learning models (SVM, Classification Trees, and Logistic Regression) were fine-tuned for successful landing prediction with an accuracy of 83%.</p>
 <img src='/images/spacex-landing.gif' width='500'>
 <hr width="700px">
 
