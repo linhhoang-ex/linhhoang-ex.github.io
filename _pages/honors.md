@@ -19,7 +19,7 @@ author_profile: true
 <ul>
 	<li><strong>IEEE VTS Tokyo/Japan Chapter Young Researcher’s Encouragement Award</strong>, Aug 2023</li>
 	<li><strong>Outstanding Student Research Assistant Grant</strong> at University of Aizu, 2022</li>
-	<li><a href="https://icc2022.ieee-icc.org/registration/student-travel-grants.html"><strong>IEEE ComSoc Student Travel Grant</strong></a> for ICC 2022&nbsp;</li>
+	<li><a href="https://icc2022.ieee-icc.org/registration/student-travel-grants.html"><strong>IEEE ComSoc Student Travel Grant</strong></a> for IEEE ICC 2022&nbsp;</li>
 	<li><strong>Japanese Government Scholarship (MEXT) for Doctoral Program</strong>, 2021</li>
 	<li><a href="https://www.hondafoundation.jp/en/yes_award.html?country=70#midasi"><strong>Honda Y-E-S Plus Award</strong></a>, Honda Foundation, 2019</li>
 	<li><strong>Japanese Government Scholarship (MEXT) for Master&#39;s Program</strong>, 2019</li>
