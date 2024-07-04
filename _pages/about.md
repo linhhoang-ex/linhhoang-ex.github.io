@@ -29,16 +29,18 @@ My Ph.D. research, titled _"AI-empowered Control and Management of UAV-Assisted 
 * Ph.D. in Computer Science and Engineering, [University of Aizu](https://u-aizu.ac.jp/en/), 2024 (Expected)
 * M.Sc. in Computer Science and Engineering, University of Aizu, 2021
 * B.Eng. (Talented Engineers Program) in Electronics and Telecommunications, [Hanoi University of Science and Technology (HUST)](https://en.hust.edu.vn/web/en/home), Vietnam, 2018
-<!-- * [IBM Data Science Professional Certificate Program](https://www.coursera.org/professional-certificates/ibm-data-science)
-* [DeepLearning.AI Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) -->
+
+<!--[IBM Data Science Professional Certificate Program](https://www.coursera.org/professional-certificates/ibm-data-science)
+
+[DeepLearning.AI Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) -->
 
 ### EXPERIENCES
 * Data Scientist Intern @ Rakuten Group, Inc., Sep. – Oct., 2023
   * Pricing optimization for the online retail market
 
 * Graduate Research Assistant @ [Computer Communications Lab. (CCL), UoA](http://web-ext.u-aizu.ac.jp/labs/ce-cc/), Oct. 2019 – now
-  * Supervisor: [Prof. Anh T. Pham](https://u-aizu.ac.jp/~pham/) @ The University of Aizu (UoA), Japan
-  * Research topic: Reinforcement Learning-based Solutions for Control and Management of UAV Networks.
+  * Supervisor: [Prof. Anh T. Pham](https://u-aizu.ac.jp/~pham/), The University of Aizu (UoA), Japan
+  * Research topic: Reinforcement learning-based solutions for control and management of UAV networks.
 
 * Teaching Assistant @ The University of Aizu (UoA)
   * [CN02 Network Security](http://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2022_1_E_015.html#14101): Springs 2021, 2022, 2023, 2024
@@ -46,9 +48,9 @@ My Ph.D. research, titled _"AI-empowered Control and Management of UAV-Assisted 
   * [FU02 Information Theory and Data Compression](http://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2022_1_E_013.html#13415): Winters 2020, 2021, 2022
   * [CN04 Wireless Networking](http://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2022_1_E_015.html#14103): Winters 2021, 2022
 
-* Research Assistant at [Communication Theory and Application Research Group (CTARG)](https://sites.google.com/site/ntchuyenkyoto/lab?authuser=0), Oct. 2017 – Sep. 2019
-  * Supervisor: [Assoc. Prof. Chuyen T. Nguyen](https://sites.google.com/site/ntchuyenkyoto/home?authuser=0) @ Hanoi University of Science and Technology (HUST), Vietnam
-  * Research topic: Time- and Energy-Efficient Medium Access Control (MAC) Protocols for Radio Frequency Identification (RFID) Systems
+* Research Assistant @ [Communication Theory and Application Research Group (CTARG)](https://sites.google.com/site/ntchuyenkyoto/lab?authuser=0), Oct. 2017 – Sep. 2019
+  * Supervisor: [Assoc. Prof. Chuyen T. Nguyen](https://sites.google.com/site/ntchuyenkyoto/home?authuser=0), Hanoi University of Science and Technology (HUST), Vietnam
+  * Research topic: Time- and energy-efficient medium access control protocols for radio frequency identification (RFID) systems
   <!-- aiming to reduce identification time and energy consumption of passive RFID systems under non-ideal channel conditions. -->
 
 <!-- * Research Assistant, [Computer Communications Laboratory (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/), University of Aizu, Oct. 2019 – now
@@ -60,5 +62,5 @@ My Ph.D. research, titled _"AI-empowered Control and Management of UAV-Assisted 
   * Designed energy-efficient multiple access mechanisms for large-scale Radio Frequency Identification (RFID) systems.
   * Advisor: Professor [Chuyen T. Nguyen](https://sites.google.com/site/ntchuyenkyoto/home?authuser=0) -->
   
-<!-- ### CONTACT
-Computer Communications Lab. (CCL), <br> The University of Aizu, Japan <br>linhht.419 [at] gmail [dot] com  -->
+### CONTACT
+Computer Communications Laboratory, <br> The University of Aizu, Japan <br>linhht.419 [at] gmail [dot] com 
