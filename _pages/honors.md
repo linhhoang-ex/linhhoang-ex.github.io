@@ -17,6 +17,7 @@ author_profile: true
 
 <br>
 <ul>
+	<li><strong>IEEE ComSoc Sendai Chapter Student Excellent Research Award</strong>, 2023</li>
 	<li><a href="http://www.ieee-jp.org/section/tokyo/chapter/VT-06/vt.htm"><strong>IEEE VTS Tokyo/Japan Chapter Young Researcher’s Encouragement Award</strong></a>, 2023</li>
 	<li><strong>University of Aizu's Student Travel Grant</strong> for APWCS 2023</li>
 	<li><strong>Outstanding Student Research Assistant Grant</strong> at University of Aizu, 2022</li>
