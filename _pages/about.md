@@ -22,7 +22,7 @@ redirect_from:
 
 <br>
 
-I am a PhD candidate in computer science and engineering at [The University of Aizu (UoA)](https://u-aizu.ac.jp/en/), Japan, and a member of the [Computer Communications Lab. (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/) under the supervision of Professor [Anh Pham](https://u-aizu.ac.jp/~pham/).
+I obtained a PhD in computer science and engineering from [The University of Aizu (UoA)](https://u-aizu.ac.jp/en/) in 2024 and was a member of the [Computer Communications Lab. (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/) led by Professor [Anh Pham](https://u-aizu.ac.jp/~pham/).
 
 My Ph.D. research, titled _"AI-empowered Control and Management of UAV-Assisted Wireless Networks,"_ studies a new approach integrating machine learning techniques (deep learning and reinforcement learning) into resource management of UAV networks. The two focuses are optimizing network resource allocation and adaptive deployment of aerial base stations to enable edge computing and internet from space in next-generation networks.
 
@@ -32,21 +32,21 @@ My Ph.D. research, titled _"AI-empowered Control and Management of UAV-Assisted 
 
 * Ph.D. in Computer Science and Engineering, [University of Aizu](https://u-aizu.ac.jp/en/), 2024
 * M.Sc. in Computer Science and Engineering, University of Aizu, 2021
-* B.Eng. (Talented Engineers Program) in Electronics and Telecommunications,\
-[Hanoi University of Science and Technology (HUST)](https://en.hust.edu.vn/web/en/home), Vietnam, 2018
+* B.Eng. (Talented Engineers Program) in Electronics and Telecommunications,
+  [Hanoi University of Science and Technology (HUST)](https://en.hust.edu.vn/web/en/home), Vietnam, 2018
 
 <!--[IBM Data Science Professional Certificate Program](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 [DeepLearning.AI Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) -->
 
 ## EXPERIENCES
-
+* Data Scientist @ Rakuten Group, Inc., April 2024 - now
 * Data Scientist Intern @ Rakuten Group, Inc., Sep – Oct, 2023
-  * Pricing optimization for the online retail market
+  * Price optimization for online retail markets
 
 * Graduate Research Assistant @ [Computer Communications Lab. (CCL), UoA](http://web-ext.u-aizu.ac.jp/labs/ce-cc/), Oct '19 – Sep '24
   * Supervisor: [Prof. Anh T. Pham](https://u-aizu.ac.jp/~pham/), The University of Aizu (UoA), Japan
-  * Research topic: Reinforcement learning for control and management of UAV networks.
+  * Research topic: Reinforcement learning for control and management of UAV-aided communication networks.
 
 * Teaching Assistant @ The University of Aizu (UoA)
   * [CN02 Network Security](http://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2022_1_E_015.html#14101): Springs 2021, 2022, 2023, 2024
@@ -69,8 +69,7 @@ My Ph.D. research, titled _"AI-empowered Control and Management of UAV-Assisted 
   * Designed energy-efficient multiple access mechanisms for large-scale Radio Frequency Identification (RFID) systems.
   * Advisor: Professor [Chuyen T. Nguyen](https://sites.google.com/site/ntchuyenkyoto/home?authuser=0) -->
 
-## CONTACT
-
-Computer Communications Lab (CCL),\
-The University of Aizu, Japan\
-linhht.419 [at] gmail [dot] com
+<!-- ## CONTACT -->
+<!-- Computer Communications Lab (CCL),
+The University of Aizu, Japan -->
+<!-- linhht.419 [at] gmail [dot] com -->
