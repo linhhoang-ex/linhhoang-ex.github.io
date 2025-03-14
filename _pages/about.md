@@ -22,7 +22,7 @@ redirect_from:
 
 <br>
 
-I obtained my PhD in computer science and engineering from the [University of Aizu (UoA)](https://u-aizu.ac.jp/en/) in 2024. I was a member of the [Computer Communications Lab. (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/) led by Professor [Anh Pham](https://u-aizu.ac.jp/~pham/) during my PhD study.
+I obtained my PhD in computer science and engineering from the [University of Aizu (UoA)](https://u-aizu.ac.jp/en/) in 2024. During my PhD, I was fortunate to be supervised by Professor [Anh Pham](https://u-aizu.ac.jp/~pham/) at the [Computer Communications Laboratory (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/).
 
 My Ph.D. research, titled _"AI-empowered Control and Management of UAV-Assisted Wireless Networks,"_ investigates a new approach integrating machine learning techniques (deep learning and reinforcement learning) into resource management and deployment of UAV-aided communication networks. The two focuses are optimizing network resource allocation and adaptive deployment of aerial base stations to enable mobile edge computing and internet from space in next-generation networks (5G and Beyond).
 
@@ -40,11 +40,11 @@ My Ph.D. research, titled _"AI-empowered Control and Management of UAV-Assisted 
 [DeepLearning.AI Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) -->
 
 ## EXPERIENCES
-* Data Scientist @ Rakuten Group, Inc., April 2024 - now
+* Data Scientist @ Rakuten Group, Inc., April 2025 - now
 * Data Scientist Intern @ Rakuten Group, Inc., Sep – Oct, 2023
   * Price optimization for online retail markets
 
-* Graduate Research Assistant @ [Computer Communications Lab. (CCL), UoA](http://web-ext.u-aizu.ac.jp/labs/ce-cc/), Oct '19 – Sep '24
+* Graduate Research Assistant @ [Computer Communications Lab. (CCL), UoA](http://web-ext.u-aizu.ac.jp/labs/ce-cc/), Oct 2019 – Sep 2024
   * Supervisor: [Prof. Anh T. Pham](https://u-aizu.ac.jp/~pham/), The University of Aizu (UoA), Japan
   * Research topic: Reinforcement learning for control and management of UAV-aided communication networks.
 
@@ -54,7 +54,7 @@ My Ph.D. research, titled _"AI-empowered Control and Management of UAV-Assisted 
   * [FU02 Information Theory and Data Compression](http://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2022_1_E_013.html#13415): Winters 2020, 2021, 2022
   * [CN04 Wireless Networking](http://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2022_1_E_015.html#14103): Winters 2021, 2022
 
-* Research Assistant @ [Communication Theory and Application Research Group](https://sites.google.com/site/ntchuyenkyoto/lab?authuser=0), Oct '17 – Sep '19
+* Research Assistant @ [Communication Theory and Application Research Group](https://sites.google.com/site/ntchuyenkyoto/lab?authuser=0), Oct 2017 – Sep 2019
   * Supervisor: [Assoc. Prof. Chuyen T. Nguyen](https://sites.google.com/site/ntchuyenkyoto/home?authuser=0), Hanoi University of Science and Technology, Vietnam
   * Research topic: Time- and energy-efficient medium access control protocols for RFID systems
 
