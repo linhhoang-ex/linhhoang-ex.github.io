@@ -22,9 +22,9 @@ redirect_from:
 
 <br>
 
-I obtained a PhD in computer science and engineering from [The University of Aizu (UoA)](https://u-aizu.ac.jp/en/) in 2024 and was a member of the [Computer Communications Lab. (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/) led by Professor [Anh Pham](https://u-aizu.ac.jp/~pham/).
+I obtained my PhD in computer science and engineering from the [University of Aizu (UoA)](https://u-aizu.ac.jp/en/) in 2024. I was a member of the [Computer Communications Lab. (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/) led by Professor [Anh Pham](https://u-aizu.ac.jp/~pham/) during my PhD study.
 
-My Ph.D. research, titled _"AI-empowered Control and Management of UAV-Assisted Wireless Networks,"_ studies a new approach integrating machine learning techniques (deep learning and reinforcement learning) into resource management of UAV networks. The two focuses are optimizing network resource allocation and adaptive deployment of aerial base stations to enable edge computing and internet from space in next-generation networks.
+My Ph.D. research, titled _"AI-empowered Control and Management of UAV-Assisted Wireless Networks,"_ investigates a new approach integrating machine learning techniques (deep learning and reinforcement learning) into resource management and deployment of UAV-aided communication networks. The two focuses are optimizing network resource allocation and adaptive deployment of aerial base stations to enable mobile edge computing and internet from space in next-generation networks (5G and Beyond).
 
 <!-- My interests include statistics, data analysis, and data-driven forecasting. I am passionate and curious about finding insights from large-scale data and developing data-driven solutions to business problems.  -->
 
