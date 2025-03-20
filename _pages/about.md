@@ -22,9 +22,12 @@ redirect_from:
 
 <br>
 
-I obtained my PhD in computer science and engineering from [The University of Aizu](https://u-aizu.ac.jp/en/) in 2024. During my PhD, I was fortunate to be supervised by Professor [Anh Pham](https://u-aizu.ac.jp/~pham/) at the [Computer Communications Laboratory (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/).
+Currently, I am working as a data scientist at Rakuten Group, Inc.
+Before that, I graduated from [The University of Aizu](https://u-aizu.ac.jp/en/) with a Ph.D. in computer science and engineering in 2024.
+During my PhD, I was fortunate to be supervised by Professor [Anh Pham](https://u-aizu.ac.jp/~pham/) at the [Computer Communications Laboratory (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/).
 
-My Ph.D. research, titled _"AI-empowered Control and Management of UAV-Assisted Wireless Networks,"_ investigated a new approach integrating machine learning techniques (deep learning and reinforcement learning) into resource management and deployment of UAV-aided communication networks. The two focuses were optimizing network resource allocation and adaptive deployment of aerial base stations to enable mobile edge computing and internet from space in next-generation networks (5G and Beyond).
+My doctoral research entitled _“AI-empowered Control and Management of UAV-Assisted Wireless Networks”_ investigated a new approach that integrates machine learning techniques (deep learning and reinforcement learning) into the resource management and deployment of UAV-aided communication networks.
+The two focuses were optimizing network resource allocation and adaptive deployment of aerial base stations to enable mobile edge computing and internet from space in next-generation networks (5G and Beyond).
 
 <!-- My interests include statistics, data analysis, and data-driven forecasting. I am passionate and curious about finding insights from large-scale data and developing data-driven solutions to business problems.  -->
 
@@ -45,7 +48,7 @@ My Ph.D. research, titled _"AI-empowered Control and Management of UAV-Assisted 
 
 * Graduate Research Assistant @ [Computer Communications Laboratory (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/), Oct 2019 – Sep 2024
   * Supervisor: [Prof. Anh T. Pham](https://u-aizu.ac.jp/~pham/), The University of Aizu, Japan
-  * Research topic: Deep reinforcement learning for control and management of UAV-aided communication networks.
+  * Theme: Deep reinforcement learning for control and management of UAV-aided communication networks
 
 * Teaching Assistant @ The University of Aizu (UoA)
   * [CN02 Network Security](http://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2022_1_E_015.html#14101): Springs 2021, 2022, 2023, 2024
@@ -55,7 +58,7 @@ My Ph.D. research, titled _"AI-empowered Control and Management of UAV-Assisted 
 
 * Research Assistant @ [Communication Theory and Application Research Group (CTARG)](https://sites.google.com/site/ntchuyenkyoto/lab?authuser=0), Oct 2017 – Sep 2019
   * Supervisor: [Assoc. Prof. Chuyen T. Nguyen](https://sites.google.com/site/ntchuyenkyoto/home?authuser=0), Hanoi University of Science and Technology, Vietnam
-  * Research topic: Time- and energy-efficient medium access control protocols for RFID systems
+  * Research Topic: Time- and energy-efficient medium access control protocols for RFID systems
 
   <!-- aiming to reduce identification time and energy consumption of passive RFID systems under non-ideal channel conditions. -->
 
