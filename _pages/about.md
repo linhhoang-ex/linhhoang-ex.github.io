@@ -46,7 +46,7 @@ The two focuses were optimizing network resource allocation and adaptive deploym
 * Data Scientist Intern @ Rakuten Group, Inc., Sep 2023 – Oct 2023
   * Price optimization for online retail markets
 
-* Graduate Research Assistant @ [Computer Communications Laboratory (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/), Oct 2019 – Sep 2024
+* Graduate Research Assistant @ [Computer Communications Laboratory (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/), April 2020 – Sep 2024
   * Supervisor: [Prof. Anh T. Pham](https://u-aizu.ac.jp/~pham/), The University of Aizu, Japan
   * Theme: Deep reinforcement learning for control and management of UAV-aided communication networks
 
