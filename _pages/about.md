@@ -20,7 +20,7 @@ redirect_from:
   gtag('config', 'G-FTB71GTS1Y');
 </script>
 
-<br>
+<!-- <br> -->
 
 Currently, I am working as a data scientist at Rakuten Group, Inc.
 Before that, I graduated from [The University of Aizu](https://u-aizu.ac.jp/en/) with a Ph.D. in computer science and engineering in 2024.
@@ -48,7 +48,7 @@ The two focuses were optimizing network resource allocation and adaptive deploym
 
 * Graduate Research Assistant @ [Computer Communications Laboratory (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/), Apr 2020 – Sep 2024
   * Supervisor: [Prof. Anh T. Pham](https://u-aizu.ac.jp/~pham/), The University of Aizu, Japan
-  * Theme: Deep reinforcement learning for control and management of UAV-aided communication networks
+  * Deep reinforcement learning for control and management of UAV-aided communication networks
 
 * Teaching Assistant @ The University of Aizu (UoA)
   * [CN02 Network Security](http://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2022_1_E_015.html#14101): Springs 2021, 2022, 2023, 2024
@@ -58,7 +58,7 @@ The two focuses were optimizing network resource allocation and adaptive deploym
 
 * Research Assistant @ [Communication Theory and Application Research Group (CTARG)](https://sites.google.com/site/ntchuyenkyoto/lab?authuser=0), Oct 2017 – Sep 2019
   * Supervisor: [Assoc. Prof. Chuyen T. Nguyen](https://sites.google.com/site/ntchuyenkyoto/home?authuser=0), Hanoi University of Science and Technology, Vietnam
-  * Research Topic: Time- and energy-efficient medium access control protocols for RFID systems
+  * Time- and energy-efficient medium access control protocols for RFID systems
 
   <!-- aiming to reduce identification time and energy consumption of passive RFID systems under non-ideal channel conditions. -->
 
