@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "ABOUT ME"
 title_separator          : "-"
-name                     : &name "Linh T. HOANG"
+name                     : &name "Linh Hoang"
 description              : &description "personal description"
 url                      : "https://linhhoang-ex.github.io" # the base hostname & protocol for your site e.g. "https://academicpages.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Linh Hoang"
   avatar           : "profile.jpg"
-  bio              : "Data Scientist @ Rakuten<br>Ph.D. in CSE @ UoA"
-  location         : "Greater Tokyo Area"
+  bio              : "Data Scientist @ Rakuten"
+  location         : "Tokyo"
   employer         : "Rakuten Group, Inc."
   pubmed           : 
   googlescholar    : 
