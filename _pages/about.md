@@ -22,12 +22,12 @@ redirect_from:
 
 <!-- <br> -->
 
-Currently, I am working as a data scientist at Rakuten Group, Inc.
+Currently, I am working as an associate data scientist at Rakuten Group, Inc.
 Before that, I graduated from [The University of Aizu](https://u-aizu.ac.jp/en/) with a Ph.D. in computer science and engineering in 2024.
 During my PhD, I was fortunate to be supervised by Professor [Anh Pham](https://u-aizu.ac.jp/~pham/) at the [Computer Communications Laboratory (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/).
 
-My doctoral research entitled _“AI-empowered Control and Management of UAV-Assisted Wireless Networks”_ investigated a new approach that integrates machine learning techniques (deep learning and reinforcement learning) into the resource management and deployment of UAV-aided communication networks.
-The two focuses were optimizing network resource allocation and adaptive deployment of aerial base stations to enable mobile edge computing and internet from space in next-generation networks (5G and Beyond).
+My doctoral research, entitled _“AI-empowered Control and Management of UAV-Assisted Wireless Networks,”_ investigated a novel approach that integrates machine learning techniques (deep learning and reinforcement learning) into the resource management and deployment of UAV-aided communication networks.
+The research focused on optimizing network resource allocation and the adaptive deployment of aerial base stations to enable mobile edge computing and internet from space in next-generation networks (5G and Beyond).
 
 <!-- My interests include statistics, data analysis, and data-driven forecasting. I am passionate and curious about finding insights from large-scale data and developing data-driven solutions to business problems.  -->
 
@@ -42,7 +42,7 @@ The two focuses were optimizing network resource allocation and adaptive deploym
 [DeepLearning.AI Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) -->
 
 ## EXPERIENCES
-* Data Scientist @ Rakuten Group, Inc., Apr 2025 - now
+* Associate Data Scientist @ Rakuten Group, Inc., Apr 2025 - now
 * Data Scientist Intern @ Rakuten Group, Inc., Sep 2023 – Oct 2023
   * Price optimization for online retail markets
 

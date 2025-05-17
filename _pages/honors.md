@@ -17,18 +17,18 @@ author_profile: true
 
 <br>
 <ul>
-	<li><strong>IEEE ComSoc Sendai Chapter Student Excellent Research Award</strong>, 2023</li>
-	<li><a href="http://www.ieee-jp.org/section/tokyo/chapter/VT-06/vt.htm"><strong>IEEE VTS Tokyo/Japan Chapter Young Researcher’s Encouragement Award</strong></a>, 2023</li>
-	<li><strong>Student Travel Grant</strong> for APWCS 2023, The University of Aizu</li>
-	<li><strong>Outstanding Student Research Assistant Grant</strong>, The University of Aizu, 2022</li>
-	<li><a href="https://icc2022.ieee-icc.org/registration/student-travel-grants.html"><strong>IEEE ComSoc Student Travel Grant</strong></a> for IEEE ICC 2022</li>
-	<li><strong>Japanese Government Scholarship (MEXT) for Doctoral Program</strong></li>
-	<li><strong>Japanese Government Scholarship (MEXT) for Master&#39;s Program</strong></li>
-	<li><a href="https://www.hondafoundation.jp/en/yes_award.html?country=70#midasi"><strong>Honda Y-E-S Plus Award</strong></a>, Honda Foundation, 2019</li>
-	<li><a href="https://www.hondafoundation.jp/yes/index_en/240#midasi"><strong>Honda Young Engineers and Scientists (Honda Y-E-S) Award</strong></a>, Honda Foundation, 2018</li>
-	<li><a href="https://www.temasekfoundation.org.sg/programmes-i/Specialists-Community-Action-and-Leadership-Exchange-SCALE-Programmes"><strong>Specialists&#39; Community Action and Leadership Exchange (SCALE) Program</strong></a>, Temasek Foundation, 2018</li>
-	<li><a href="https://www.mofa.go.kr/eng/wpge/m_5719/contents.do"><strong>Global Korea Scholarship for ASEAN Countries&rsquo; Science and Engineering Students</strong></a>, 2017</li>
-	<li><a href="https://www.lawrencestingfoundation.org/en/education/lstf-scholarship"><strong>Lawrence S. Ting Scholarship</strong></a>, Lawrence S. Ting Foundation (LSTF), 2016</li>
-	<li><strong>Encourage Scholarship for Outstanding Student,</strong> HUST, 2016</li>
-	<li><strong>Second Prize</strong>, Hanoi Mathematical Olympiad for High School Students, 2012</li>
+	<li>IEEE ComSoc Sendai Chapter Student Excellent Research Award, 2023</li>
+	<!-- <li><a href="http://www.ieee-jp.org/section/tokyo/chapter/VT-06/vt.htm"><strong>IEEE VTS Tokyo/Japan Chapter Young Researcher’s Encouragement Award</strong></a>, 2023</li> -->
+	<!-- <li><strong>Student Travel Grant</strong> for APWCS 2023, The University of Aizu</li> -->
+	<!-- <li><strong>Outstanding Student Research Assistant Grant</strong>, The University of Aizu, 2022</li> -->
+	<li><a href="https://icc2022.ieee-icc.org/registration/student-travel-grants.html">IEEE ComSoc Student Travel Grant</a> for attending IEEE ICC 2022</li>
+	<li>Japanese Government Scholarship (MEXT) for Doctoral Program</li>
+	<li>Japanese Government Scholarship (MEXT) for Master&#39;s Program</li>
+	<li><a href="https://www.hondafoundation.jp/en/yes_award.html?country=70#midasi">Honda Y-E-S Plus Award</a>, 2019</li>
+	<li><a href="https://www.hondafoundation.jp/yes/index_en/240#midasi">Honda Young Engineers and Scientists (Honda Y-E-S) Award</a>, 2018</li>
+	<li><a href="https://www.temasekfoundation.org.sg/programmes-i/Specialists-Community-Action-and-Leadership-Exchange-SCALE-Programmes">Specialists&#39; Community Action and Leadership Exchange (SCALE) Program</a>, Temasek Foundation, 2018</li>
+	<li><a href="https://www.mofa.go.kr/eng/wpge/m_5719/contents.do">Global Korea Scholarship for ASEAN Countries&rsquo; Science and Engineering Students</a>, 2017</li>
+	<li><a href="https://www.lawrencestingfoundation.org/en/education/lstf-scholarship">Lawrence S. Ting Scholarship</a>, 2016</li>
+	<li>Encourage Scholarship for Outstanding Student, HUST, 2016</li>
+	<li>Second Prize, Hanoi Mathematical Olympiad for High School Students, 2012</li>
 </ul>
