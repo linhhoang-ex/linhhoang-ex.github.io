@@ -43,8 +43,8 @@ The research focused on optimizing network resource allocation and the adaptive 
 
 ## EXPERIENCES
 * Associate Data Scientist @ Rakuten Group, Inc., Apr 2025 - now
+  * GMS forecasting and price optimization for online retail marketplaces
 * Data Scientist Intern @ Rakuten Group, Inc., Sep 2023 – Oct 2023
-  * Price optimization for online retail markets
 
 * Graduate Research Assistant @ [Computer Communications Laboratory (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/), Apr 2020 – Sep 2024
   * Supervisor: [Prof. Anh T. Pham](https://u-aizu.ac.jp/~pham/), The University of Aizu, Japan
