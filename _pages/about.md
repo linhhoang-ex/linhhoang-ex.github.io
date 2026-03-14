@@ -22,7 +22,7 @@ redirect_from:
 
 <!-- <br> -->
 
-Currently, I am working as an associate data scientist at Rakuten Group, Inc.
+Currently, I am working as a data scientist at Rakuten Group, Inc.
 Before that, I graduated from [The University of Aizu](https://u-aizu.ac.jp/en/) with a Ph.D. in computer science and engineering in 2024.
 During my PhD, I was fortunate to be supervised by Professor [Anh Pham](https://u-aizu.ac.jp/~pham/) at the [Computer Communications Laboratory (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/).
 
@@ -42,7 +42,7 @@ The research focused on optimizing network resource allocation and the adaptive 
 [DeepLearning.AI Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) -->
 
 ## EXPERIENCES
-* Associate Data Scientist @ Rakuten Group, Inc., Apr 2025 - now
+* Data Scientist @ Rakuten Group, Inc., Feb 2025 - now
   * GMS forecasting and price optimization for online retail marketplaces
 * Data Scientist Intern @ Rakuten Group, Inc., Sep 2023 – Oct 2023
 
