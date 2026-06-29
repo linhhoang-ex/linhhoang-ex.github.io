@@ -43,7 +43,7 @@ The research focused on optimizing network resource allocation and the adaptive 
 
 ## EXPERIENCES
 * Data Scientist @ Rakuten Group, Inc., Feb 2025 - now
-  * GMS forecasting and price optimization for online retail marketplaces
+  * GMS forecasting and price optimization for online retail and booking platforms
 * Data Scientist Intern @ Rakuten Group, Inc., Sep 2023 – Oct 2023
 
 * Graduate Research Assistant @ [Computer Communications Laboratory (CCL)](http://web-ext.u-aizu.ac.jp/labs/ce-cc/), Apr 2020 – Sep 2024
