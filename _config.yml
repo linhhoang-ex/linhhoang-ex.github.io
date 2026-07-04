@@ -11,9 +11,9 @@ title                    : "ABOUT ME"
 title_separator          : "-"
 name                     : &name "Linh Hoang"
 description              : &description "personal description"
-url                      : "https://linhhoang-x.github.io" # the base hostname & protocol for your site e.g. "https://academicpages.github.io/"
+url                      : "https://linhhoangtuan.github.io" # the base hostname & protocol for your site e.g. "https://academicpages.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/linhhoang-x/linhhoang-x.github.io"
+repository               : "https://github.com/linhhoangtuan/linhhoangtuan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "linhhoang-x"
+  github           : "linhhoangtuan"
   google_plus      :
   keybase          :
   instagram        :
